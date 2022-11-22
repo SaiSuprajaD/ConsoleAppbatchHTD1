@@ -1,0 +1,8 @@
+C:\Users\dsais\source\repos\ConsoleAppbatchHTD1\ConsoleAppbatchHTD1\bin\Debug\ConsoleAppbatchHTD1.exe.config
+C:\Users\dsais\source\repos\ConsoleAppbatchHTD1\ConsoleAppbatchHTD1\bin\Debug\ConsoleAppbatchHTD1.exe
+C:\Users\dsais\source\repos\ConsoleAppbatchHTD1\ConsoleAppbatchHTD1\bin\Debug\ConsoleAppbatchHTD1.pdb
+C:\Users\dsais\source\repos\ConsoleAppbatchHTD1\ConsoleAppbatchHTD1\obj\Debug\ConsoleAppbatchHTD1.csproj.AssemblyReference.cache
+C:\Users\dsais\source\repos\ConsoleAppbatchHTD1\ConsoleAppbatchHTD1\obj\Debug\ConsoleAppbatchHTD1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dsais\source\repos\ConsoleAppbatchHTD1\ConsoleAppbatchHTD1\obj\Debug\ConsoleAppbatchHTD1.csproj.CoreCompileInputs.cache
+C:\Users\dsais\source\repos\ConsoleAppbatchHTD1\ConsoleAppbatchHTD1\obj\Debug\ConsoleAppbatchHTD1.exe
+C:\Users\dsais\source\repos\ConsoleAppbatchHTD1\ConsoleAppbatchHTD1\obj\Debug\ConsoleAppbatchHTD1.pdb
